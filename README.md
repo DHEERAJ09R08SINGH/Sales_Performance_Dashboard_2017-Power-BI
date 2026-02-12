@@ -78,6 +78,3 @@ Sample sales dataset (2017) used for analytical and visualization purposes.
 
 ⭐ If you found this project useful, feel free to star the repository!
 ```
-
-
-
