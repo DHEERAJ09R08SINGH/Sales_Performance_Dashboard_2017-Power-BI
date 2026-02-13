@@ -74,7 +74,7 @@ Sample sales dataset (2017) used for analytical and visualization purposes.
 
 **Dheeraj R. Singh**  
 📎 GitHub: https://github.com/DHEERAJ09R08SINGH  
-🔗 LinkedIn: https://www.linkedin.com/in/dheeraj-r-singh/
+🔗 LinkedIn: [https://www.linkedin.com/in/dheeraj-r-singh/](https://www.linkedin.com/in/dheeraj-r-singh-9b4370250/)
 
 
 ---
