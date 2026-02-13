@@ -3,6 +3,9 @@
 
 An interactive Business Intelligence dashboard developed using **Power BI** to analyze sales performance, profitability, and regional insights for the year 2017.
 
+![Dashboard Preview](Sales_Performance_Dashboards_2017.png)
+
+
 ---
 
 ## 🚀 Project Overview
